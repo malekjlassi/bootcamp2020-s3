@@ -1,0 +1,50 @@
+/*
+p{
+    color: red;
+}
+h1{
+    color: green;
+}
+*/
+#p1 {
+    color: blue;
+}
+#p2{
+    color: gray;
+}
+.c1 {
+    color: greenyellow;
+}
+.c2 {
+    font-family: monospace;
+}
+.bleu{
+    color: blue;
+}
+p.vert{
+    color: green;
+}
+/*
+p,h1{
+    border: 1px solid green;
+}
+*/
+*{
+    background-color:white;
+}
+div .mc1{
+    font-family: cursive;
+}
+.btn{
+    background-color:#007bff;
+    border: #007bff 1px solid;
+    color:#fff;
+    font-family: Arial;
+    padding: 5px;
+    border-radius: 3px;
+}
+.btn:hover{
+    background-color:#fff;
+    border: #007bff 1px solid;
+    color:#007bff;
+}
